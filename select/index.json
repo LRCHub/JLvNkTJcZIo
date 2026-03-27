@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "base_track": "もっと",
+  "base_artist": "aiko",
+  "createdAt": "2026-03-27T07:06:34.682911Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もっと",
+      "artist": "角松敏生",
+      "has_synced": false,
+      "path": "select/01_もっと_角松敏生.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もっと",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_もっと_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もっと…",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/03_もっと..._Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もっと…",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/04_もっと..._西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もっと! ふたりのパ〜ティ〜ナイト",
+      "artist": "シノブ (CV: 大坪由佳) & ミヤコ (CV: 雨宮 天)",
+      "has_synced": true,
+      "path": "select/05_もっと!_ふたりのパ〜ティ〜ナイト_シノブ_(CV__大坪由佳)_&_ミヤコ_(CV__雨宮_天).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もっと！ふたりのパ～ティ～ナイト",
+      "artist": "シノブ (大坪由佳)、ミヤコ (雨宮天)",
+      "has_synced": true,
+      "path": "select/06_もっと!ふたりのパ~ティ~ナイト_シノブ_(大坪由佳)、ミヤコ_(雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もっと！ふたりのパ～ティ～ナイト",
+      "artist": "シノブ(CV.大坪由佳) & ミヤコ(CV.雨宮天)",
+      "has_synced": true,
+      "path": "select/07_もっと!ふたりのパ~ティ~ナイト_シノブ(CV.大坪由佳)_&_ミヤコ(CV.雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなたを・もっと・知りたくて",
+      "artist": "薬師丸ひろ子",
+      "has_synced": true,
+      "path": "select/08_あなたを・もっと・知りたくて_薬師丸ひろ子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなたを・もっと・知りたくて",
+      "artist": "Hiroko Yakushimaru (薬師丸ひろ子)",
+      "has_synced": true,
+      "path": "select/09_あなたを・もっと・知りたくて_Hiroko_Yakushimaru_(薬師丸ひろ子).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もっと!モット!ときめき - LIVE",
+      "artist": "金月真美",
+      "has_synced": true,
+      "path": "select/10_もっと!モット!ときめき_-_LIVE_金月真美.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "もっと!モット!ときめき",
+      "artist": "金月真美",
+      "has_synced": true,
+      "path": "select/11_もっと!モット!ときめき_金月真美.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "もっと! ふたりのパ～ティ～ナイト",
+      "artist": "シノブ (大坪由佳) & ミヤコ (雨宮天)",
+      "has_synced": true,
+      "path": "select/12_もっと!_ふたりのパ~ティ~ナイト_シノブ_(大坪由佳)_&_ミヤコ_(雨宮天).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もっと",
+      "artist": "ケツメイシ",
+      "has_synced": false,
+      "path": "select/13_もっと_ケツメイシ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もっと",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/pl_01_もっと_aiko.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "もっと",
+      "artist": "aiko",
+      "has_synced": false,
+      "path": "select/localdb_01_もっと_aiko.txt",
+      "repo_name": "_1XY4DemeH4"
+    }
+  ]
+}
